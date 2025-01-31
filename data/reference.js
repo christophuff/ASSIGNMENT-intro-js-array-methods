@@ -40,7 +40,7 @@ export const referenceList = [
     title: "Eloquent Rage",
     author: "Brittney Cooper",
     price: 10.00,
-    image: "https://www.bitchmedia.org/sites/default/files/Eloquent%20Rage%20and%20Brittney%20Cooper.jpg",
+    image: "https://images.pangobooks.com/images/3c21a5fd-dcb9-4728-a7f2-2ff87d8ef7a6?auto=webp&format=webp&height=300&quality=85&crop=5%3A6",
     youTubeId: "",
     type: "Book",
     description: "Eloquent rage keeps us all honest and accountable. It reminds women that they don’t have to settle for less. When Cooper learned of her grandmother's eloquent rage about love, sex, and marriage in an epic and hilarious front-porch confrontation, her life was changed. And it took another intervention, this time staged by one of her homegirls, to turn Brittney into the fierce feminist she is today. In Brittney Cooper’s world, neither mean girls nor fuckboys ever win. But homegirls emerge as heroes. This book argues that ultimately feminism, friendship, and faith in one's own superpowers are all we really need to turn things right side up again.",
